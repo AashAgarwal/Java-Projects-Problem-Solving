@@ -1,0 +1,17 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: "import java.util.Scanner;\nimport java.lang.ref.SoftReference;\n\npublic\
+    \ class Main {\n    public static void main(String[] args) {\n        Scanner\
+    \ scanner = new Scanner(System.in);\n        Integer num = scanner.nextInt();\n\
+    \        // inititalize an instance of SoftReference by passing num to the constructor\n\
+    \        SoftReference<Integer> softReference = ... \n\n        num = null;\n\n\
+    \        System.out.println(/* print the value here */);\n    }\n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/18146#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 10 Oct 2022 17:51:00 UTC
+record: -1

@@ -1,0 +1,29 @@
+content:
+- String
+- Integer types and operations
+- Floating-point types
+- Types of references
+- Conditional statement
+- The while and do-while loops
+- The for-loop
+- Branching statements
+- Switch statement
+- Calling a method
+- Array
+- Iterating over arrays
+- Declaring a method
+- Overloading
+- Arrays as parameters
+- Functional decomposition
+- Defining classes
+- Instance methods
+- Constructor
+- Multiple constructors
+- Objects
+- Static members
+- Package
+- Getters and setters
+- Inheritance
+- The keyword super
+- Hiding and overriding
+- Polymorphism
