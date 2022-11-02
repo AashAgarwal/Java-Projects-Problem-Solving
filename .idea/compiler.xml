@@ -157,6 +157,45 @@
       <module name="Error_Correcting_Encoder-Decoder.Error_Correcting_Encoder-Decoder-task-out.main" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Error_Correcting_Encoder-Decoder-task-out.test" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Error_Correcting_Encoder-Decoder-task.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-About_abstract_classes" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-About_abstract_classes.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-About_abstract_classes.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-An_incorrect_statement" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-An_incorrect_statement.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-An_incorrect_statement.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-Characterize_the_abstract_class" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-Characterize_the_abstract_class.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-Characterize_the_abstract_class.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-Correct_statements" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-Correct_statements.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-Correct_statements.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-Features_of_an_abstract_method" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-Features_of_an_abstract_method.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-Features_of_an_abstract_method.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-Incorrect_declaration" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-Incorrect_declaration.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-Incorrect_declaration.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-IntBinaryOperation" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-IntBinaryOperation.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-IntBinaryOperation.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-Overriding_when_extending" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-Overriding_when_extending.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-Overriding_when_extending.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-Parts_of_an_abstract_class" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-Parts_of_an_abstract_class.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-Parts_of_an_abstract_class.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-Shape_hierarchy" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-Shape_hierarchy.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-Shape_hierarchy.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-Theory" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-Theory.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-Theory.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-Users_and_WebSites" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-Users_and_WebSites.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-Users_and_WebSites.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-Which_methods_must_be_overridden" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-Which_methods_must_be_overridden.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Abstract_class-Which_methods_must_be_overridden.test" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Array-Allocation_memory" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Array-Allocation_memory.main" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Array-Declarations" target="17" />
@@ -308,6 +347,27 @@
       <module name="Error_Correcting_Encoder-Decoder.Topics-Constructor-User" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Constructor-User.main" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Constructor-User.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Custom_exceptions-Checked_exception_with_constructor" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Custom_exceptions-Checked_exception_with_constructor.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Custom_exceptions-Checked_exception_with_constructor.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Custom_exceptions-Custom_exceptions_features" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Custom_exceptions-Custom_exceptions_features.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Custom_exceptions-Custom_exceptions_features.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Custom_exceptions-DriverNotReadyException" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Custom_exceptions-DriverNotReadyException.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Custom_exceptions-DriverNotReadyException.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Custom_exceptions-Exception_chaining" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Custom_exceptions-Exception_chaining.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Custom_exceptions-Exception_chaining.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Custom_exceptions-Handle_incorrect_inputs" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Custom_exceptions-Handle_incorrect_inputs.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Custom_exceptions-Handle_incorrect_inputs.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Custom_exceptions-Square_class" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Custom_exceptions-Square_class.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Custom_exceptions-Square_class.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Custom_exceptions-Theory" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Custom_exceptions-Theory.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Custom_exceptions-Theory.test" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Declaring_a_method-Calculating_factorials" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Declaring_a_method-Calculating_factorials.main" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Declaring_a_method-Calculating_factorials.test" target="17" />
@@ -377,6 +437,48 @@
       <module name="Error_Correcting_Encoder-Decoder.Topics-Defining_classes-Theory" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Defining_classes-Theory.main" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Defining_classes-Theory.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-Catch_all_exceptions" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-Catch_all_exceptions.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-Catch_all_exceptions.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-Catching_some_exceptions" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-Catching_some_exceptions.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-Catching_some_exceptions.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-Converting_and_multiplying" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-Converting_and_multiplying.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-Converting_and_multiplying.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-Determine_a_block_for_handling_exceptions" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-Determine_a_block_for_handling_exceptions.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-Determine_a_block_for_handling_exceptions.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-Executed_blocks" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-Executed_blocks.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-Executed_blocks.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-Method_named_process" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-Method_named_process.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-Method_named_process.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-Printed_lines" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-Printed_lines.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-Printed_lines.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-Reading_a_file" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-Reading_a_file.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-Reading_a_file.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-String_to_double_conversion" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-String_to_double_conversion.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-String_to_double_conversion.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-Suitable_keywords" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-Suitable_keywords.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-Suitable_keywords.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-Theory" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-Theory.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-Theory.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-Try-catch_statements" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-Try-catch_statements.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-Try-catch_statements.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-What_does_the_code_print" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-What_does_the_code_print.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-What_does_the_code_print.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-What_exceptions_can_be_handled" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-What_exceptions_can_be_handled.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Exception_handling-What_exceptions_can_be_handled.test" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Floating-point_types-Area_of_a_circle" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Floating-point_types-Area_of_a_circle.main" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Floating-point_types-Celsius_to_Fahrenheit" target="17" />
@@ -497,6 +599,42 @@
       <module name="Error_Correcting_Encoder-Decoder.Topics-Hiding_and_overriding-Which_methods_will_be_overridden" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Hiding_and_overriding-Which_methods_will_be_overridden.main" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Hiding_and_overriding-Which_methods_will_be_overridden.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-BadRequestException" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-BadRequestException.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-BadRequestException.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-Base_class" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-Base_class.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-Base_class.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-Base_classes_of_RuntimeException" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-Base_classes_of_RuntimeException.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-Base_classes_of_RuntimeException.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-Checked_exceptions" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-Checked_exceptions.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-Checked_exceptions.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-Overview_the_hierarchy" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-Overview_the_hierarchy.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-Overview_the_hierarchy.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-Overview_the_hierarchy__1_" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-Overview_the_hierarchy__1_.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-Overview_the_hierarchy__1_.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-Subclasses_of_Exception" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-Subclasses_of_Exception.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-Subclasses_of_Exception.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-Subclasses_of_RuntimeException" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-Subclasses_of_RuntimeException.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-Subclasses_of_RuntimeException.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-The_base_class" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-The_base_class.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-The_base_class.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-Theory" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-Theory.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-Theory.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-Unchecked_exceptions" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-Unchecked_exceptions.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-Unchecked_exceptions.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-UncheckedException" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-UncheckedException.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Hierarchy_of_exceptions-UncheckedException.test" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Inheritance-Classes_for_Hospital" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Inheritance-Classes_for_Hospital.main" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Inheritance-Classes_for_Hospital.test" target="17" />
@@ -580,6 +718,42 @@
       <module name="Error_Correcting_Encoder-Decoder.Topics-Integer_types_and_operations-The_sum_of_digits.main" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Integer_types_and_operations-Theory" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Integer_types_and_operations-Theory.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-Area_of_a_circle" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-Area_of_a_circle.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-Area_of_a_circle.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-Compact_strings_with_AsciiCharSequence" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-Compact_strings_with_AsciiCharSequence.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-Compact_strings_with_AsciiCharSequence.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-Implementing_an_interface" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-Implementing_an_interface.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-Implementing_an_interface.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-Interface_methods" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-Interface_methods.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-Interface_methods.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-Marker_interface" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-Marker_interface.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-Marker_interface.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-Mutable_geometric_shapes" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-Mutable_geometric_shapes.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-Mutable_geometric_shapes.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-Properties_of_methods" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-Properties_of_methods.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-Properties_of_methods.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-Statements" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-Statements.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-Statements.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-Theory" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-Theory.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-Theory.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-What_can_an_interface_have" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-What_can_an_interface_have.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-What_can_an_interface_have.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-What_does_an_interface_define" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-What_does_an_interface_define.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-What_does_an_interface_define.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-Which_methods_must_be_overridden" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-Which_methods_must_be_overridden.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Interface-Which_methods_must_be_overridden.test" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Iterating_over_arrays-Alphabetical_order" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Iterating_over_arrays-Alphabetical_order.main" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Iterating_over_arrays-Boxes" target="17" />
@@ -620,6 +794,57 @@
       <module name="Error_Correcting_Encoder-Decoder.Topics-Iterating_over_arrays-Triples.main" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Iterating_over_arrays-Two_numbers_never_occur_next_to_each_other" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Iterating_over_arrays-Two_numbers_never_occur_next_to_each_other.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Cinema" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Cinema.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Cinema.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Create_cube" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Create_cube.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Create_cube.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Fill_the_matrix_by_numbers" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Fill_the_matrix_by_numbers.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Fill_the_matrix_by_numbers.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Find_the_corners" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Find_the_corners.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Find_the_corners.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Getting_an_element_from_a_3D_array" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Getting_an_element_from_a_3D_array.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Getting_an_element_from_a_3D_array.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Indexing_rules" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Indexing_rules.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Indexing_rules.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Maximum_element_in_a_matrix" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Maximum_element_in_a_matrix.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Maximum_element_in_a_matrix.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Multidimensional_array_features" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Multidimensional_array_features.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Multidimensional_array_features.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Practical_applications" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Practical_applications.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Practical_applications.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Printing_lengths_of_nested_arrays" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Printing_lengths_of_nested_arrays.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Printing_lengths_of_nested_arrays.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Reverse_elements" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Reverse_elements.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Reverse_elements.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Rotate_a_rectangle_array" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Rotate_a_rectangle_array.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Rotate_a_rectangle_array.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Swap_the_columns" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Swap_the_columns.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Swap_the_columns.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Symmetric_matrix" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Symmetric_matrix.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Symmetric_matrix.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-The_star_figure" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-The_star_figure.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-The_star_figure.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-The_third_row" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-The_third_row.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-The_third_row.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Theory" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Theory.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Multidimensional_array-Theory.test" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Multiple_constructors-About_constructors" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Multiple_constructors-About_constructors.main" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Multiple_constructors-About_constructors.test" target="17" />
@@ -650,6 +875,36 @@
       <module name="Error_Correcting_Encoder-Decoder.Topics-Multiple_constructors-Time" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Multiple_constructors-Time.main" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Multiple_constructors-Time.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-NPE-Avoid_NPE" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-NPE-Avoid_NPE.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-NPE-Avoid_NPE.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-NPE-Avoid_NPE_with_strings" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-NPE-Avoid_NPE_with_strings.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-NPE-Avoid_NPE_with_strings.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-NPE-Code_that_throws_an_exception" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-NPE-Code_that_throws_an_exception.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-NPE-Code_that_throws_an_exception.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-NPE-Lines_that_may_throw_NPE" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-NPE-Lines_that_may_throw_NPE.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-NPE-Lines_that_may_throw_NPE.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-NPE-Return_empty_string_when_argument_is_null" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-NPE-Return_empty_string_when_argument_is_null.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-NPE-Return_empty_string_when_argument_is_null.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-NPE-Theory" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-NPE-Theory.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-NPE-Theory.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-NPE-Unknown_input" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-NPE-Unknown_input.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-NPE-Unknown_input.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-NPE-When_NPE_cannot_occur" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-NPE-When_NPE_cannot_occur.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-NPE-When_NPE_cannot_occur.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-NPE-Where_NPE_may_occur" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-NPE-Where_NPE_may_occur.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-NPE-Where_NPE_may_occur.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-NPE-Where_NPE_might_occur" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-NPE-Where_NPE_might_occur.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-NPE-Where_NPE_might_occur.test" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Objects-Accessing_fields" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Objects-Accessing_fields.main" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Objects-Accessing_fields.test" target="17" />
@@ -908,6 +1163,39 @@
       <module name="Error_Correcting_Encoder-Decoder.Topics-The_while_and_do-while_loops-The_sum_of_elements.main" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-The_while_and_do-while_loops-Theory" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-The_while_and_do-while_loops-Theory.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Throwing_exceptions-Days_of_the_week" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Throwing_exceptions-Days_of_the_week.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Throwing_exceptions-Days_of_the_week.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Throwing_exceptions-How_to_throw_an_exception" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Throwing_exceptions-How_to_throw_an_exception.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Throwing_exceptions-How_to_throw_an_exception.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Throwing_exceptions-Possible_declaration" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Throwing_exceptions-Possible_declaration.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Throwing_exceptions-Possible_declaration.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Throwing_exceptions-The_most_general_statement" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Throwing_exceptions-The_most_general_statement.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Throwing_exceptions-The_most_general_statement.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Throwing_exceptions-The_root_of_a_number" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Throwing_exceptions-The_root_of_a_number.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Throwing_exceptions-The_root_of_a_number.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Throwing_exceptions-Theory" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Throwing_exceptions-Theory.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Throwing_exceptions-Theory.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Throwing_exceptions-Throw_a_checked_exception" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Throwing_exceptions-Throw_a_checked_exception.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Throwing_exceptions-Throw_a_checked_exception.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Throwing_exceptions-Throw_an_IOException" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Throwing_exceptions-Throw_an_IOException.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Throwing_exceptions-Throw_an_IOException.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Throwing_exceptions-Throw_an_unchecked_exception" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Throwing_exceptions-Throw_an_unchecked_exception.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Throwing_exceptions-Throw_an_unchecked_exception.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Throwing_exceptions-Throwing_an_exception" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Throwing_exceptions-Throwing_an_exception.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Throwing_exceptions-Throwing_an_exception.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Throwing_exceptions-Throwing_statements" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Throwing_exceptions-Throwing_statements.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-Throwing_exceptions-Throwing_statements.test" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Types_of_references-Get_the_sum_square_of_variables" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Types_of_references-Get_the_sum_square_of_variables.main" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Types_of_references-Get_the_variable_value" target="17" />
@@ -918,6 +1206,15 @@
       <module name="Error_Correcting_Encoder-Decoder.Topics-Types_of_references-Strong_Reference_vs_Soft_Reference.main" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Types_of_references-Theory" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.Topics-Types_of_references-Theory.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-What_is_an_exception-Avoid_division_by_zero" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-What_is_an_exception-Avoid_division_by_zero.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-What_is_an_exception-Avoid_division_by_zero.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-What_is_an_exception-Check_the_code" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-What_is_an_exception-Check_the_code.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-What_is_an_exception-Check_the_code.test" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-What_is_an_exception-Theory" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-What_is_an_exception-Theory.main" target="17" />
+      <module name="Error_Correcting_Encoder-Decoder.Topics-What_is_an_exception-Theory.test" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.util" target="17" />
       <module name="Error_Correcting_Encoder-Decoder.util.main" target="17" />
     </bytecodeTargetLevel>

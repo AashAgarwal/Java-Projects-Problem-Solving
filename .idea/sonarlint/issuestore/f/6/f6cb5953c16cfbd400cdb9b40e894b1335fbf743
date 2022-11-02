@@ -1,0 +1,7 @@
+
+0
+java:S1220""Move this file to a named package.
+t
+java:S2177"WRename this method; there is a "private" method in the parent class with the same name.(–Žœò8Äµ§žÀ0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©íò±üÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ÃÞ¸ ÿÿÿÿÿ

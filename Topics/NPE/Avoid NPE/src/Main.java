@@ -1,0 +1,18 @@
+/**
+ * Here's a program that may throw NullPointerException. Fix it to avoid the exception.
+ *
+ * In the case when the exception may occur, the program should print the string "NPE!".
+ */
+
+import java.util.*;
+
+class FixingNullPointerException {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        String string = scanner.nextLine();
+        string = "null".equals(string) ? null : string;
+        /* Do not change code above */
+        System.out.println(string != null ? string.toLowerCase() : "NPE!");
+    }
+}

@@ -117,3 +117,63 @@ i
 9Topics/Hiding and overriding/Saying animals/src/Main.java,b/b/bb7f453a37f4494c6ed52593baebe71fb37c1611
 g
 7Topics/Hiding and overriding/Publications/src/Main.java,f/a/fac4d9ffcf6725e3bdf814f93ea5b949afb2d486
+p
+@Topics/Polymorphism/Publication and its subclasses/src/Main.java,f/3/f35e3a23c105c64c7f16f2ea593d4fc8a33dbfc0
+^
+.Topics/Polymorphism/Find mistake/src/Main.java,f/6/f6cb5953c16cfbd400cdb9b40e894b1335fbf743
+u
+ETopics/Interface/Compact strings with AsciiCharSequence/src/Main.java,1/9/1936a4dcda9ebd221727e5ed6e87ef111940745d
+g
+7Topics/Interface/Mutable geometric shapes/src/Main.java,d/f/df0c3e7ed55b749f62a2a60f9aae7c6cf17df6a2
+_
+/Topics/Interface/Area of a circle/src/Main.java,f/9/f99ba7926d3fd44a649f148007eb199b8579740d
+f
+6Topics/Abstract class/Users and WebSites/src/Main.java,c/6/c62db7baa156047e5eef812b016e801b900f62d0
+c
+3Topics/Abstract class/Shape hierarchy/src/Main.java,2/6/264ba6b6031b63ac1062ccb4996adc2c94ca24b8
+f
+6Topics/Abstract class/IntBinaryOperation/src/Main.java,b/3/b396e3733225d2c96e07f5780fd556ae58867c4c
+l
+<Topics/Multidimensional array/Swap the columns/src/Main.java,0/a/0a282086f9f3c1981e7c4f5fc526c81de9e9c2e4
+l
+<Topics/Multidimensional array/Symmetric matrix/src/Main.java,e/9/e9665d0e39865db1b1304412e566b7aba5e9d8e2
+w
+GTopics/Multidimensional array/Maximum element in a matrix/src/Main.java,f/1/f10006d5691da43ed9208c0e49f1c34109a2c6ab
+v
+FTopics/Multidimensional array/Fill the matrix by numbers/src/Main.java,4/a/4ad6f8f381be92be30fea00d9f8098357b68eab8
+k
+;Topics/Multidimensional array/The star figure/src/Main.java,a/d/adf544c18924dee0cabda3c5f5c3569671d236a9
+l
+<Topics/Multidimensional array/Reverse elements/src/Main.java,7/1/717a135d0a079d05ddbf9f8ec2a5378bcfb715c9
+i
+9Topics/Multidimensional array/The third row/src/Main.java,f/c/fc612a7d86dc11a1953d07c7355340b30237cb6b
+t
+DTopics/Multidimensional array/Rotate a rectangle array/src/Main.java,6/6/6648bf0dbeb04cf657237167f47cec747bab2b79
+l
+<Topics/Multidimensional array/Find the corners/src/Main.java,3/3/337c3c225adf48dc387f874bbf6d8a433a206551
+g
+7Topics/Multidimensional array/Create cube/src/Main.java,1/1/11ef4c6ce2d0fd1c943b4b3e4fb83b8def9bdf2e
+b
+2Topics/Multidimensional array/Cinema/src/Main.java,a/a/aa404a4e0cee1c533a59ca423b06134808ecb9ff
+p
+@Topics/What is an exception/Avoid division by zero/src/Main.java,3/3/332c664c8ac69e1e38969adec19c393664b2da26
+r
+BTopics/NPE/Return empty string when argument is null/src/Main.java,7/f/7f0b36818b5b4b15673f1dc4741cea2c45045d55
+_
+/Topics/NPE/Avoid NPE with strings/src/Main.java,8/9/891b3662927e0c5de889d96fef69e87590b69031
+V
+&Topics/NPE/Unknown input/src/Main.java,a/b/aba0a510950b419c8635a05920710a78f097c78f
+R
+"Topics/NPE/Avoid NPE/src/Main.java,4/7/47d55e320432b07119185fb17469a248e94f6c06
+g
+7Topics/Hierarchy of exceptions/Base class/src/Main.java,0/5/05176a0bb3d52ce4be1ed5f84550ef173caa8095
+o
+?Topics/Hierarchy of exceptions/UncheckedException/src/Main.java,6/e/6ecf380c6805714dea0e4577285efd65c2ff1530
+p
+@Topics/Hierarchy of exceptions/BadRequestException/src/Main.java,8/d/8d663c0e61e1df3025d76cd59e2e0a1ff40d3759
+p
+@Topics/Exception handling/Catching some exceptions/src/Main.java,b/5/b598456c8f4b0bf165ec3d3f22b2b6e77e76733f
+s
+CTopics/Exception handling/String to double conversion/src/Main.java,8/0/8056391acd52fb0d57ce0813861ec53ac8734088
+r
+BTopics/Exception handling/Converting and multiplying/src/Main.java,4/3/433cd1474119b558162efd4a6747ea5c722ed121

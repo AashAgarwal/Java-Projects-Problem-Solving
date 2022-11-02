@@ -1,0 +1,12 @@
+
+0
+java:S1220""Move this file to a named package.
+a
+java:S2259""FA "NullPointerException" could be thrown; "integers" is nullable here.(¬èØöøÿÿÿÿ
+T
+java:S3518""9Make sure "sum" can't be zero before doing this division.(¬èØöøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(­·Ğüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(†ô±‰
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(ŒÎ¼ï
+M	java:S106'"9Replace this use of System.out or System.err by a logger.(üî÷L
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(Šö‡›ıÿÿÿÿ
