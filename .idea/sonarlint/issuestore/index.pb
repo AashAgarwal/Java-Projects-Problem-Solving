@@ -177,3 +177,29 @@ s
 CTopics/Exception handling/String to double conversion/src/Main.java,8/0/8056391acd52fb0d57ce0813861ec53ac8734088
 r
 BTopics/Exception handling/Converting and multiplying/src/Main.java,4/3/433cd1474119b558162efd4a6747ea5c722ed121
+m
+=Topics/Throwing exceptions/Throw an IOException/src/Main.java,8/d/8d865fed737b1d125622280916fa60161a26ba16
+i
+9Topics/Throwing exceptions/Days of the week/src/Main.java,2/f/2f0f2b44c702b309ca3860a296e2aeb0c2e0692d
+r
+BTopics/Throwing exceptions/Throw a checked exception/src/Main.java,0/1/0163b16fba28af52f064632897926a7ecae41731
+u
+ETopics/Throwing exceptions/Throw an unchecked exception/src/Main.java,8/6/86af3abbfc6e3991b63681e8bd032b8e19a38094
+m
+=Topics/Throwing exceptions/The root of a number/src/Main.java,4/d/4d73d980ed30d13dc9b4378ac23713a1cd2c3232
+c
+3Topics/Custom exceptions/Square class/src/Main.java,b/a/baa7f5f71bf2cbb2c4ff960f15492c3a2d270d68
+n
+>Topics/Custom exceptions/DriverNotReadyException/src/Main.java,9/5/95d950a8a86bdb94920e5db73d539edc727cc364
+y
+ITopics/Custom exceptions/Checked exception with constructor/src/Main.java,b/d/bdacedf73e80dc42f9e3f1423ed0a2003235190b
+c
+3Topics/Array exceptions/Out of bounds/src/Main.java,1/f/1fa9ba16b44c0876e07d8d2504cfd80a96b109f9
+f
+6Topics/Array exceptions/Calculate Square/src/Main.java,5/6/560f0168e4bb09a75f68c291eb7800303f870010
+d
+4Topics/Debugging techniques/Log events/src/Main.java,2/7/2782807391bed6d568c0319c2bc26ec21b26fd44
+h
+8Topics/Debugging techniques/Find the error/src/Main.java,d/2/d209808ee6c95ad983ac5f718e65722656a20d06
+W
+'Topics/Files/Are siblings/src/Main.java,0/d/0df49b29079be4e4c14fa0ddf0c381ac9ffc3fcb
