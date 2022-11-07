@@ -1,7 +1,0 @@
-
-0
-java:S1220""Move this file to a named package.
-S	java:S106"9Replace this use of System.out or System.err by a logger.(¢ÿÁãøÿÿÿÿ
-c
-java:S3457"AFormat specifiers should be used instead of string concatenation.(±êÑ×ûÿÿÿÿ8Á¡¢ã½0
-S	java:S106"9Replace this use of System.out or System.err by a logger.(±êÑ×ûÿÿÿÿ

@@ -1,43 +1,0 @@
-
-0
-java:S1220""Move this file to a named package.
-F
-java:S2440"$Remove this instantiation of "Unit".(¡òóÃøÿÿÿÿ8±’Çû¾0
-@
-java:S2440"$Remove this instantiation of "Unit".(íÈÀv8‰ÍÈû¾0
-A
-java:S2440"$Remove this instantiation of "Unit".(Òş§8‘Êû¾0
-F
-java:S2440"$Remove this instantiation of "Unit".(èİÿùÿÿÿÿ8‚ªÌû¾0
-A
-java:S2440"$Remove this instantiation of "Unit".(ö‘ƒ8ƒªÌû¾0
-C
-java:S2440"&Remove this instantiation of "Knight".(Ğ©æ¬8ª“Ïû¾0
-C
-java:S2440"&Remove this instantiation of "Knight".(“š±€8«“Ïû¾0
-H
-java:S2440"&Remove this instantiation of "Knight".(Òßñšûÿÿÿÿ8«“Ïû¾0
-I
-java:S2440"'Remove this instantiation of "General".(£Îò˜úÿÿÿÿ8ÑÒĞû¾0
-C
-java:S2440"&Remove this instantiation of "Doctor".(ëº¨ê8ÓÒĞû¾0
-8
-java:S1118 "Hide this public constructor.(Œ´…ùÿÿÿÿ
-;
-java:S3010""%Remove this assignment of "nameUnit".(Äÿê‰
-8
-java:S1118+"Hide this public constructor.(Ö¸ü†ùÿÿÿÿ
-=
-java:S3010-"'Remove this assignment of "nameKnight".(¤ğã
-3
-java:S11186"Hide this public constructor.(š¸¬
-C
-java:S30108"(Remove this assignment of "nameGeneral".(Â•Øøÿÿÿÿ
-8
-java:S1118A"Hide this public constructor.(›Æ¥ğûÿÿÿÿ
-B
-java:S3010C"'Remove this assignment of "nameDoctor".(ß×¨şúÿÿÿÿ
-S	java:S106J"9Replace this use of System.out or System.err by a logger.(‚±ïëúÿÿÿÿ
-N	java:S106K"9Replace this use of System.out or System.err by a logger.(Úîåä
-N	java:S106L"9Replace this use of System.out or System.err by a logger.(ñÛƒ
-S	java:S106M"9Replace this use of System.out or System.err by a logger.(îÛ›Ëşÿÿÿÿ

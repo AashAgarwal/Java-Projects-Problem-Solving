@@ -100,19 +100,8 @@ files:
 
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/5454#comment
-status: Failed
+status: Solved
 feedback:
-  message: |-
-    Wrong answer in test #1
-
-    Input length and output length should be the same!
-    Input length: 17
-    Output length: 12
-
-    Please find below the output of your program during this failed test.
-
-    ---
-
-    Hello World!
-  time: Mon, 10 Oct 2022 12:07:27 UTC
-record: -1
+  message: Congratulations!
+  time: Sun, 06 Nov 2022 14:52:49 UTC
+record: 1

@@ -9,7 +9,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Error_Correcting_Encoder-Decoder.Topics-Static_members-Project_constants_and_methods.main" />
     <orderEntry type="module" module-name="Error_Correcting_Encoder-Decoder.util.main" />
-    <orderEntry type="module" module-name="Error Correcting Encoder-Decoder.Error_Correcting_Encoder-Decoder.util.test" production-on-test="" />
+    <orderEntry type="module" module-name="Error_Correcting_Encoder-Decoder.util.test" production-on-test="" />
     <orderEntry type="library" name="Gradle: com.github.hyperskill:hs-test:release-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Gradle: org.assertj:assertj-swing-junit:3.17.1" level="project" />
     <orderEntry type="library" name="Gradle: junit:junit:4.13.2" level="project" />
