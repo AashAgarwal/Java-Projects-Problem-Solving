@@ -1,17 +1,14 @@
 type: hyperskill
-title: Coffee Machine
+title: Cinema Room Manager
 language: English
-summary: '<p>What can be better than a cup of coffee during a break? A coffee that
-  you don&rsquo;t have to make yourself. It&rsquo;s enough to press a couple of buttons
-  on the machine and you get a cup of energy; but first, we should teach the machine
-  how to do it. In this project, you will work on programming a coffee machine simulator.
-  The machine works with typical products: coffee, milk, sugar, and plastic cups;
-  if it runs out of something, it shows a notification. You can get three types of
-  coffee: espresso, cappuccino and latte. Since nothing&rsquo;s for free, it also
-  collects the money.</p><br/><br/>Learn more at <a href="https://hyperskill.org/projects/33?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card">https://hyperskill.org/projects/33</a>'
+summary: '<p>Cinema has been a part of the entertainment industry for a long time:
+  a good movie is a way to escape reality and live through a variety of&nbsp;emotions.&nbsp;The
+  best cinema experience you can get is probably in a cinema theatre. In this project,
+  you will create an application that&nbsp;helps manage a&nbsp;cinema theatre: sell
+  tickets, check available seats, see sales statistics, and more.</p><br/><br/>Learn
+  more at <a href="https://hyperskill.org/projects/133?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card">https://hyperskill.org/projects/133</a>'
 programming_language: Java
 programming_language_version: 11
 content:
-- Coffee Machine
-- Topics (1)
+- Cinema Room Manager
 mode: Study
